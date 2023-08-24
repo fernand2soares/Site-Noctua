@@ -1,0 +1,83 @@
+
+header {
+    position: relative;
+      border-bottom: 1px solid 	#000000; 
+    padding-bottom: 2%; 
+
+}
+.quadro {
+	background-color: black;
+	 margin: -2%;
+     padding: 1%;
+     height: 31px;
+   
+}
+
+
+.assine {
+
+          color: white;
+           font-family: "Source Code Pro Black"  , Lato Semibold, Lato Semibold;
+           font-size: 100%;
+           text-align: left;
+           margin-left: 5%;
+           margin-top: 1%;
+           display: inline-flex;
+
+}
+
+
+ img[src="coruja.png"] {
+     height: 18%;
+     width: 20%;
+     margin-top: 3% ;
+}
+
+
+.manifesto {
+	 position: absolute;
+	display: inline-flex;
+   font-family: "Felix Titling", "Franklin Gothic" ;
+    margin: 1%;
+    top: 30%;
+
+}
+
+
+img[src="pesquisa.png"] {
+	
+      height: 12%;
+     width: 13%;
+     margin-top: -4% ;
+     margin-left: 39%;
+}
+
+img[src="x-salada.png"] {
+	
+	display: inline-flex;
+      height: 11%;
+     width: 13%; top: 0% ;
+     margin-left: 5%;
+}
+
+
+
+.lista {
+  color: gray;
+           font-family: "Source Code Pro Black"  , Lato Semibold, Lato Semibold;
+           font-size: 100%;
+           text-align: left;
+           display: inline-flex;
+            margin-top: 2%;
+
+}
+
+
+.cie  {margin-left: 5%;}
+
+
+.fil  {margin-left: 7%;}
+
+.lit  {margin-left: 8%;}
+
+.his  {margin-left: 10%;}
